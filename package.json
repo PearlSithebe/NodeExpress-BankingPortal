@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/pluralsight-projects/NodeExpress-BankingPortal#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "ejs": "2.6.1",
     "express": "4.16.3"
   },
